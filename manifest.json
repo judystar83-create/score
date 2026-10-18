@@ -1,0 +1,15 @@
+{
+  "name": "베에르 마디노트",
+  "short_name": "마디노트",
+  "description": "말하면 마디 위에 적히는 레슨 악보 노트 — Beereu Music Education",
+  "start_url": "./lesson-score.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1b2440",
+  "theme_color": "#1b2440",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
